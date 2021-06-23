@@ -3,16 +3,16 @@ module.exports = {
     '@babel/preset-env',
     '@babel/preset-typescript',
     ['@babel/preset-react', {
-      runtime: 'automatic'
-    }]
+      runtime: 'automatic',
+    }],
   ],
   plugins: [
-    "babel-plugin-styled-components",
+    'babel-plugin-styled-components',
     [
-      "babel/plugin-transform-runtime",
+      '@babel/plugin-transform-runtime',
       {
-        "regenerator": true
-      }
-    ]
-  ]
-}
+        regenerator: true,
+      },
+    ],
+  ],
+};
