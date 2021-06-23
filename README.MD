@@ -30,7 +30,7 @@
       <a href="#about-the-project">Sobre o projeto</a>
     </li>
     <li>
-      <a href="#getting-started">Como utilizar</>a>
+      <a href="#getting-started">Como utilizar</a>
       <ul>
         <li><a href="#prerequisites">Pré-requisitos</a></li>
         <li><a href="#installation">Instalação</a></li>
