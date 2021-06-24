@@ -77,7 +77,7 @@ Para o style guide funcionar você deve ter as extensões Eslint, Prettier e Edi
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Install NPM packages
+2. Install packages
    ```sh
    npm install
    ```
@@ -86,7 +86,16 @@ Para o style guide funcionar você deve ter as extensões Eslint, Prettier e Edi
    ```sh
    yarn
    ```
-3. Divirta-se explorando as novas funcionalidade
+3. Inicie a aplicação
+   ```sh
+   npm dev
+   ```
+   ou
+
+   ```sh
+   yarn dev
+   ```
+4. Divirta-se explorando as novas funcionalidade
 
 <br />
 <br />
